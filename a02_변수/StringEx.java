@@ -12,6 +12,5 @@ public class StringEx {
 		String name = "최훈제";
 		System.out.println(name);
 		
-	}
-
+	}  // end of main
 }
